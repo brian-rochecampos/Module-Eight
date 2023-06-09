@@ -1,3 +1,5 @@
+8-1 Journal: Portfolio
+
 1.	What was the problem you were solving in the projects for this course?
 
 The problem I was solving in these projects involved analyzing data structures and algorithms. In Project One, the goal was to analyze the run-time of different data structures. Project Two focused on developing code that would sort and print a list of courses in the Computer Science program in alphanumeric order.
